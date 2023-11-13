@@ -10,6 +10,10 @@ body {
     background-color: gray;
 }
 .calculator {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    align-items: center;
     width: 300px;
     margin: 0 auto;
     background-color: aqua;
