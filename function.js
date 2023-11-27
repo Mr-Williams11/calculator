@@ -6,7 +6,7 @@ document.querySelector('.buttons').addEventListener('click', function (e) {
     }
 });
 
-// Other functions
+// Action functions
 function handleButtonClick(value) {
     const display = document.getElementById('display');
 
